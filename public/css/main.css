@@ -74,18 +74,18 @@ td { vertical-align: top; }
    Author: Jingkai He
    ========================================================================== */
 body {
-  width: 960px;
+  width: 780px;
   margin: auto;
-  padding: 90px;
+  padding: 60px 90px;
   font-family: "Source Sans Pro", "STKaiti", "Hiragino Sans GB", sans-serif;
   font-weight: 300;
-  font-size: 27px;
+  font-size: 20px;
   line-height: 1.37em;
 }
 
 .avatar {
-  width: 160px;
-  height: 160px;
+  width: 120px;
+  height: 120px;
   margin: auto;
   display: block;
   background-image: url("../img/jingkai.jpg");
@@ -95,16 +95,16 @@ body {
 
 h1 {
   font-weight: 200;
-  margin-top: 50px;
+  margin-top: 40px;
   text-align: center;
-  font-size: 2.7em;
+  font-size: 2.4em;
   line-height: 1.1em;
 }
 
 h2 {
   margin: 36px 0 18px 0;
   font-weight: 200;
-  font-size: 1.4em;
+  font-size: 1.2em;
   text-transform: uppercase;
 }
 
