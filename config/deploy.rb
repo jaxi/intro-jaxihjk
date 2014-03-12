@@ -8,7 +8,7 @@ set :use_sudo, false
 
 set :scm, "git"
 set :repository, "git@github.com:jaxi/intro-jaxihjk.git"
-set :branch, "master"
+set :branch, "original"
 
 default_run_options[:pty] = true
 ssh_options[:forward_agent] = true
