@@ -88,9 +88,12 @@ body {
   height: 120px;
   margin: auto;
   display: block;
-  background-image: url("../img/jingkai.jpg");
+  background-image: url("../img/jingkai.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
+  -webkit-border-radius: 72px; /* Saf3+, Chrome */
+  border-radius: 72px; /* Opera 10.5, IE 9 */
+  /*-moz-border-radius: 30px;  Disabled for FF1+ */
 }
 
 h1 {
